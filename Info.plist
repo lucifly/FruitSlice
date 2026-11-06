@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleIdentifier</key><string>local.lucifly.AirPodsMotionProbe</string>
+  <key>CFBundleName</key><string>FruitSlice</string>
+  <key>CFBundleDisplayName</key><string>耳机切水果</string>
+  <key>CFBundleExecutable</key><string>AirPodsMotionProbe</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleVersion</key><string>9</string>
+  <key>CFBundleShortVersionString</key><string>1.0.0</string>
+  <key>CFBundleIconFile</key><string>AppIcon</string>
+  <key>LSApplicationCategoryType</key><string>public.app-category.games</string>
+  <key>CFBundleDevelopmentRegion</key><string>zh_CN</string>
+  <key>LSMinimumSystemVersion</key><string>14.0</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSMotionUsageDescription</key><string>使用 AirPods 的运动数据，让你在游戏中转头移动刀光。</string>
+</dict></plist>

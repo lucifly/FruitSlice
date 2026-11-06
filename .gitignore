@@ -1,0 +1,10 @@
+# Local build and release artifacts
+build/
+dist/
+
+# Historical sensor recordings and prototype backup
+Recordings/
+Tools/LegacyProbe.swift
+
+# macOS metadata
+.DS_Store
